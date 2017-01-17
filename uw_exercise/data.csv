@@ -1,0 +1,11 @@
+sex,location,loss
+"M", "Out", 50
+"F", "Out", 150
+"F", "Out", 0
+"M", "In", 200
+"M", "In", 300 
+"F", "Out", 0
+"F", "In", 0
+"M", "Out", 0
+"F", "In", 120
+"M", "In", 100
